@@ -4,7 +4,7 @@
 
 Enables SAP UI5 [TextArea](https://sapui5.hana.ondemand.com/#/api/sap.m.TextArea) control to support Autocomplete/Suggestion feature
 
-![Demo](/assets/Demo-TextArea.gif "SAP UI5 TextArea with Autocomplete")
+![Demo](/assets/Demo.gif "SAP UI5 TextArea with Autocomplete")
 
 ## Sample code
 
